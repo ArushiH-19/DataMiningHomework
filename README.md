@@ -1,2 +1,3 @@
 # DataMiningHomework
-Contains code for homework 5- Time series forecasting, notebook name: Homework5-TimeSeriesForecasting.ipynb
+Contains code for homeworks
+1. HW5- Time series forecasting, notebook name: Homework5-TimeSeriesForecasting.ipynb
